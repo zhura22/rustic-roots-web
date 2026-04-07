@@ -84,7 +84,7 @@ function initLightbox() {
 function addWhatsAppFloat() {
     if (!document.querySelector('.whatsapp-float')) {
         const waFloat = document.createElement('a');
-        waFloat.href = 'https://wa.me/6281234567890?text=Halo%20Rustic%20Roots%2C%20saya%20tertarik%20dengan%20produk%20Anda.';
+        waFloat.href = 'https://wa.me/6281210166425?text=Halo%20Rustic%20Roots%2C%20saya%20tertarik%20dengan%20produk%20Anda.';
         waFloat.className = 'whatsapp-float';
         waFloat.target = '_blank';
         waFloat.innerHTML = '<i class="fab fa-whatsapp"></i>';

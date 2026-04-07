@@ -51,6 +51,19 @@
         "https://images.unsplash.com/photo-1593697821252-0c9137d9fc45?q=80&w=1974&auto=format"
       ],
       "category": "Kayu"
+    },
+    {
+      "id": 5,
+      "name": "Jam Dinding Kayu",
+      "description": "Jam analog dengan bingkai kayu oak solid, mekanisme silent quartz. Diameter 35 cm, desain minimalis modern dengan angka romawi.",
+      "price": 590000,
+      "priceFormatted": "Rp 590.000",
+      "images": [
+        "https://images.unsplash.com/photo-1565194509867-6eb0f4a0ecc5?q=80&w=1974&auto=format",
+        "https://images.unsplash.com/photo-1565194509867-6eb0f4a0ecc5?q=80&w=1974&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1593697821252-0c9137d9fc45?q=80&w=1974&auto=format"
+      ],
+      "category": "Kayu"
     }
   ]
 }

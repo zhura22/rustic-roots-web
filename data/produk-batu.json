@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lampu Meja Andesit",
+      "description": "Kap lampu dari batu andesit asli, memberikan cahaya hangat dan tekstur alami. Dimensi: tinggi 25 cm, lebar 15 cm. Menggunakan fitting E27, maksimal 15 watt.",
+      "price": 890000,
+      "priceFormatted": "Rp 890.000",
+      "images": [
+        "https://images.unsplash.com/photo-1602192509154-0bf9001f7f9b?q=80&w=1974&auto=format",
+        "https://images.unsplash.com/photo-1602192509154-0bf9001f7f9b?q=80&w=1974&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=2070&auto=format"
+      ],
+      "category": "Batu Alam"
+    },
+    {
+      "id": 2,
+      "name": "Patung Minimalis Paras",
+      "description": "Patung abstrak dari batu paras jogja dengan finishing halus mengkilap. Tinggi 30 cm, berat 2 kg. Cocok untuk meja kerja atau rak buku.",
+      "price": 1200000,
+      "priceFormatted": "Rp 1.200.000",
+      "images": [
+        "https://images.unsplash.com/photo-1578301978018-3005759f48f7?q=80&w=1974&auto=format",
+        "https://images.unsplash.com/photo-1578301978018-3005759f48f7?q=80&w=1974&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?q=80&w=1974&auto=format"
+      ],
+      "category": "Batu Alam"
+    },
+    {
+      "id": 3,
+      "name": "Vas Batu Palimanan",
+      "description": "Vas bunga dari batu palimanan, ukuran diameter 18 cm, tinggi 22 cm. Tekstur kasar alami dengan pori-pori kecil. Cocok untuk bunga kering.",
+      "price": 750000,
+      "priceFormatted": "Rp 750.000",
+      "images": [
+        "https://images.unsplash.com/photo-1611859266232-6c9e0a2b8e2d?q=80&w=1974&auto=format",
+        "https://images.unsplash.com/photo-1611859266232-6c9e0a2b8e2d?q=80&w=1974&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1605883705077-8d3d3cebe78c?q=80&w=1974&auto=format"
+      ],
+      "category": "Batu Alam"
+    },
+    {
+      "id": 4,
+      "name": "Hiasan Dinding Batu Susun",
+      "description": "Panel dinding batu alam susun, ukuran 60x40 cm, berat 8 kg. Memberi kesan rustic dan natural pada dinding ruang keluarga.",
+      "price": 2150000,
+      "priceFormatted": "Rp 2.150.000",
+      "images": [
+        "https://images.unsplash.com/photo-1611776121028-108b6f8e1ce6?q=80&w=1974&auto=format",
+        "https://images.unsplash.com/photo-1611776121028-108b6f8e1ce6?q=80&w=1974&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?q=80&w=1974&auto=format"
+      ],
+      "category": "Batu Alam"
+    }
+  ]
+}
